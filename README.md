@@ -3,6 +3,4 @@
 # Hi
 
 ### Social Media
-
-- [Personal](https://lowsound.dev)
 - [Mastodon](https://mastodon.sdf.org/@pxplowsound)
