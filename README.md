@@ -1,4 +1,4 @@
-[![Ceasefire now](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_Gaza_Crisis_Appeal-techforpalestine.org-000000?labelColor=gray&color=D83838)](https://www.oxfam.org/en/what-we-do/emergencies/gaza-crisis-appeal)
+[![Ceasefire now](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_Gaza_Crisis_Appeal-oxfam-000000?labelColor=gray&color=D83838)](https://www.oxfam.org/en/what-we-do/emergencies/gaza-crisis-appeal)
 
 
 ### Social Media
