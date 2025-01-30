@@ -1,4 +1,4 @@
-![Donate](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_End_the_occupation-techforpalestine.org-000?labelColor=grey&color=D83838&link=https%3A%2F%2Foxfam.org%2Fen%2Fwhat-we-do%2Femergencies%2Fgaza-crisis-appeal%2Flearn-more)
+![Donate](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_Gaza_crisis_appeal-techforpalestine.org-000?labelColor=grey&color=D83838&link=https%3A%2F%2Foxfam.org%2Fen%2Fwhat-we-do%2Femergencies%2Fgaza-crisis-appeal%2Flearn-more)
 
 ### Social Media
 - [My website](https://lowsound.dev) -> Work in progress
