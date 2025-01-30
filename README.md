@@ -1,4 +1,4 @@
-[![Donate Now](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_Gaza_Crisis_Appeal-techforpalestine.org-000000?labelColor=gray&color=D83838)]([[https://techforpalestine.org/learn-more](https://www.oxfam.org/en/what-we-do/emergencies/gaza-crisis-appeal)](https://www.oxfam.org/en/what-we-do/emergencies/gaza-crisis-appeal))
+[![Donate Now](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_Gaza_Crisis_Appeal-techforpalestine.org-000000?labelColor=gray&color=D83838)]([[[https://techforpalestine.org/learn-more](https://www.oxfam.org/en/what-we-do/emergencies/gaza-crisis-appeal)](https://www.oxfam.org/en/what-we-do/emergencies/gaza-crisis-appeal)](https://www.oxfam.org/en/what-we-do/emergencies/gaza-crisis-appeal))
 
 ### Social Media
 - [My website](https://lowsound.dev) -> Work in progress
