@@ -2,6 +2,6 @@
 
 
 ### Social Media
-- [My website](https://lowsound.dev) -> Work in progress
+- [My website](https://lowsound.dev) -> I'm trying to write about stuff
 - [Mastodon](https://mastodon.sdf.org/@pxplowsound) -> I read but don't post much
 - [Pixelfed](https://pet.tax/gobi_ni) -> Lil' miss Gobi's pixelfed account
